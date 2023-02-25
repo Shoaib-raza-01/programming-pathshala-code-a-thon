@@ -1,0 +1,73 @@
+const dignostics = [
+  {
+    testId: 1,
+    testName: 'X-Ray',
+    description: 'Examine all parts of body for fractures, teets ',
+    price: '250.00',
+    testImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.M59RMq6I0yfE7JIhV8spbwHaHa&pid=Api&rs=1&c=1&qlt=95&w=115&h=115',
+  },
+  {
+    testId: 2,
+    testName: 'CT Scan',
+    price: '460.00',
+    description: 'Visualization of internal organs to find injury and detect disease',
+    testImageUrl: 'https://tse4.mm.bing.net/th?id=OIP.kcHtKQzR_Gwb6Si8QALtPAHaD4&pid=Api&P=0',
+  },
+  {
+    testId: 3,
+    testName: 'Mammography',
+    price: '740.00',
+    description: 'Check for breast cancer',
+    testImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.kaRl69omDmBdjdrKxVh27QHaE8&pid=Api&P=0',
+  },
+  {
+    testId: 4,
+    testName: 'PET Scan',
+    price: '550.00',
+    description: 'Examine normal and abnormal metabolic activity in body',
+    testImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.jqF8XvA3zil9ABt7QqfdFQHaE8&pid=Api&P=0',
+  },
+  {
+    testId: 5,
+    testName: 'Angiography',
+    price: '835.68',
+    description: 'Various X-Ray to check blood vessels',
+    testImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.jp8mMydB7Og8X6CvzrmzFgHaFn&pid=Api&P=0',
+  },
+  {
+    testId: 6,
+    testName: 'Ultrasound',
+    price: '325.00',
+    description: 'Examine uterus and ovaries',
+    testImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.P2-suQSBAvELXGZiFOo1GwHaE8&pid=Api&P=0',
+  },
+  {
+    testId: 7,
+    testName: 'MRI ',
+    price: '825.95',
+    description: ' non invasive imaging technique visualises muscles, ligaments, and tendons, brain, spinal cord...',
+    testImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.QVqNOZVPfHjV3WXOOHe3wgHaIH&pid=Api&P=0',
+  },
+  {
+    testId: 8,
+    testName: 'Colonoscopy',
+    price: '697.45',
+    description: 'examination done for checking cancer or polyps in large intestine (colon) and rectum',
+    testImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.rH7kZdnJ-hF9dyKFzSk5vgHaE8&pid=Api&P=0',
+  },
+  {
+    testId: 9,
+    testName: 'Electrocardiogram (ECG)',
+    price: '285.85',
+    description: 'checks proper functioning of the heart',
+    testImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.MetbJ2B3URF6yk7mjzgTUgHaD8&pid=Api&P=0',
+  },
+  {
+    testId: 10,
+    testName: 'Electroencephalogram(EEG)',
+    price: '318.15',
+    description: 'test that measures electrical activity of the brain',
+    testImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.ytDhsaTql4ppwtlT4ybs7QHaFc&pid=Api&P=0',
+  },
+]
+export default dignostics

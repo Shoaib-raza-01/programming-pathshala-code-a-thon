@@ -1,0 +1,73 @@
+const doctors = [
+  {
+      id: 1,
+      name: 'John Doe',
+      description: 'Eye Specialist',
+      degree: 'MBBS MD',
+      doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.URWcNpGz2kIMfKlDCENJOQHaH0&pid=Api&P=0',
+  },
+  {
+    id: 2,
+    name: 'Will Smith',
+    description: 'Dentist',
+    degree: 'BDS',
+    doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.McwPXweOchdl0Spr644bWQHaH6&pid=Api&P=0',
+},
+{
+  id: 3,
+  name: 'Linda',
+  description: 'Gynochologist',
+  degree: 'MBBS MS',
+  doctorImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.ed9BPk56R-ZuVSBARMMXoQHaLQ&pid=Api&P=0',
+},
+{
+  id: 4,
+  name: 'Samantha',
+  description: 'Orthopaedist',
+  degree: 'MBBS MD',
+  doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.Z8steBIhLgujoI6DzaTCKQHaHI&pid=Api&P=0',
+},
+{
+  id: 5,
+  name: 'Abraham Cox',
+  description: 'General Physician',
+  degree: 'BMS',
+  doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.wNh-XjRZwKHEfWaoEiUJUAHaE8&pid=Api&P=0',
+},
+{
+  id: 6,
+  name: 'Emily',
+  description: 'Cardiologist',
+  degree: 'MBBS MD MS',
+  doctorImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.727gDXbKOyvdpaGMVT-J_gAAAA&pid=Api&P=0',
+},
+{
+  id: 7,
+  name: 'Alexander Bill',
+  description: 'Neurologist',
+  degree: 'MBBS',
+  doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.kgf-hEwxWpZTc_j7XgfbFAAAAA&pid=Api&P=0',
+},
+{
+  id: 8,
+  name: 'Layla',
+  description: 'Surgeon',
+  degree: 'MS MBBS',
+  doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.Z8steBIhLgujoI6DzaTCKQHaHI&pid=Api&P=0',
+},
+{
+  id: 9,
+  name: 'Joseph',
+  description: 'Dermatologist',
+  degree: 'MS',
+  doctorImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.iVs3gb0RXSckBSdQL_mF_wHaF8&pid=Api&P=0',
+},
+{
+  id: 10,
+  name: 'Chloe',
+  description: ' Psychiatrist',
+  degree: 'MBBS',
+  doctorImageUrl: 'https://tse4.mm.bing.net/th?id=OIP.lC1dO2ONXpfYnwsm21UAqwHaE8&pid=Api&P=0',
+},
+]
+export default doctors;

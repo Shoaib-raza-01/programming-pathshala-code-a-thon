@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.footerContainer{
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(194, 219, 247, 1);
+  padding-bottom: 50px;
+}
+li{
+  list-style: none;
+}
+.onhover{
+  font-size: 6px;
+}
+.onHover:hover{
+  text-decoration: underline;
+  font-size: 15px;
+}

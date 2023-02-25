@@ -1,0 +1,45 @@
+.information, .history{
+  display: flex;
+}
+.profileImage,.details ,.previousTests ,.upcommingTests{
+  width: 50%;
+  height: 350px;
+  /* background-color: aqua; */
+  /* margin-left: 10px; */
+  margin: 10px 10px;
+}
+.profileImage{
+  width: 350px;
+}
+.ProfileImage{
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.details{
+  padding-left: 40px;
+}
+.upcommingTests , .previousTests, .details {
+  border: 2px solid rgb(127, 170, 213);
+  border-radius: 15px;
+}
+.heading{
+  text-decoration: underline;
+  margin-left: 30%;
+}
+.noData{
+  margin-top: 150px;
+  margin-left: 45%;
+  color: rgb(142, 190, 184);
+}
+.book{
+  height: 50px;
+  width: 250px;
+  margin-left: 30px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  color: rgb(25, 28, 27);
+  background-color:rgb(64, 116, 134) ;
+}

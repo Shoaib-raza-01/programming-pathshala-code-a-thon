@@ -1,0 +1,64 @@
+body{
+  background-color: azure;
+}
+.home-banner{
+  display: flex;
+}
+
+.back-banner{
+  background-color:  rgba(194, 219, 247, 1);
+
+}
+
+.moto{
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.banner-image{
+  margin-right: 130px;
+  
+
+}
+
+.back-banner{
+  width: 440px;
+  height: 440px;
+  background-color:rgba(194, 219, 247, 1);
+}
+
+
+
+.wrap-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.banner-img{
+  position: relative;
+  left: 250px;
+  top: 40px;
+}
+
+.home-second{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+.special-box{
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.special-box:hover{
+  opacity: 50%;
+  cursor: pointer;
+}
+.special-box img{
+  width: 100px;
+  height: 150px;
+}
+

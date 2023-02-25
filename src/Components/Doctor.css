@@ -1,0 +1,32 @@
+.containers{
+  height: fit-content;
+  width: 80%;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-bottom: 10px;
+  margin-right: auto;
+  display: flex;
+  border-radius: 15px;
+  border: 2px solid rgb(122, 122, 190);
+}
+.imageDoc{
+  height: 150px;
+  width: 150px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btn{
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 20px;
+}
+.appointmentBtn{
+  height: 50px;
+  width: fit-content;
+  font-size: 20px;
+  color: rgb(193, 235, 235);
+  background-color: rgb(62, 148, 223);
+  border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+.book-form{
+ border: 1px solid black;
+ display: block;
+ margin: auto;
+ padding: auto;
+ width: 50%;
+}
+form{
+  display: block;
+  margin: auto;
+  padding: auto;
+  width: 60%;
+}
