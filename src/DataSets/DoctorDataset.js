@@ -4,6 +4,9 @@ const doctors = [
       name: 'John Doe',
       description: 'Eye Specialist',
       degree: 'MBBS MD',
+      contact : 9867545734,
+      address: 'Chaudhary Bhavan, Road-16, Kisan Nagar 1, Wagale Estate, Thane (west)',
+      available : 'Tueday Friday',
       doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.URWcNpGz2kIMfKlDCENJOQHaH0&pid=Api&P=0',
   },
   {
@@ -11,6 +14,9 @@ const doctors = [
     name: 'Will Smith',
     description: 'Dentist',
     degree: 'BDS',
+    contact : 6756453498,
+    address: '313, Bhaveshwar Arcade, Lbs Marg, Opp Shreyas Theatre, Ghatkopar (west)',
+    available : 'Monday Wednesday Saturday',
     doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.McwPXweOchdl0Spr644bWQHaH6&pid=Api&P=0',
 },
 {
@@ -18,6 +24,9 @@ const doctors = [
   name: 'Linda',
   description: 'Gynochologist',
   degree: 'MBBS MS',
+  contact : 9089675641,
+  address: '36,1st Floor, Shantinath Shpng Centre, S V Road, Malad (west)',
+  available : 'Monday Tuesday Wednesday Thursday Friday Saturday',
   doctorImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.ed9BPk56R-ZuVSBARMMXoQHaLQ&pid=Api&P=0',
 },
 {
@@ -25,6 +34,9 @@ const doctors = [
   name: 'Samantha',
   description: 'Orthopaedist',
   degree: 'MBBS MD',
+  contact : 9876543201,
+  address: '201,2nd Floor, Balaji Darshan, Tilak Rd., Opp.shabery Hotel, Santacruz (west)',
+  available : 'Tuesday Wednesday Friday Saturday',
   doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.Z8steBIhLgujoI6DzaTCKQHaHI&pid=Api&P=0',
 },
 {
@@ -32,6 +44,9 @@ const doctors = [
   name: 'Abraham Cox',
   description: 'General Physician',
   degree: 'BMS',
+  contact : 6785430983,
+  address: '212,9th Floor, Shantinath Shpng Centre, Tilak Road, GhatKoper (west)',
+  available : 'Monday Tuesday Friday Saturday',
   doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.wNh-XjRZwKHEfWaoEiUJUAHaE8&pid=Api&P=0',
 },
 {
@@ -39,6 +54,9 @@ const doctors = [
   name: 'Emily',
   description: 'Cardiologist',
   degree: 'MBBS MD MS',
+  contact : 8765432105,
+  address: ' D 29, Part 4, Old Double Storey, Lajpat Nagar',
+  available : 'Tuesday Wednesday Friday',
   doctorImageUrl: 'https://tse3.mm.bing.net/th?id=OIP.727gDXbKOyvdpaGMVT-J_gAAAA&pid=Api&P=0',
 },
 {
@@ -46,6 +64,9 @@ const doctors = [
   name: 'Alexander Bill',
   description: 'Neurologist',
   degree: 'MBBS',
+  contact : 9080796745,
+  address: ' Room No-27, 3 Rd Floor, Jay Mahal Estate, Princess Street',
+  available : 'Wednesday ',
   doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.kgf-hEwxWpZTc_j7XgfbFAAAAA&pid=Api&P=0',
 },
 {
@@ -53,6 +74,9 @@ const doctors = [
   name: 'Layla',
   description: 'Surgeon',
   degree: 'MS MBBS',
+  contact : 4928586586,
+  address: 'Sno:15-1-614/21, Siddiamber Bazar',
+  available : 'Monday Thursday Saturday',
   doctorImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.Z8steBIhLgujoI6DzaTCKQHaHI&pid=Api&P=0',
 },
 {
@@ -60,6 +84,9 @@ const doctors = [
   name: 'Joseph',
   description: 'Dermatologist',
   degree: 'MS',
+  contact : 9556678909,
+  address: '10, Panchal Nagar, Konark Korner, Station Rd, Nalasopara(w)',
+  available : 'Monday Tuesday Friday Saturday',
   doctorImageUrl: 'https://tse1.mm.bing.net/th?id=OIP.iVs3gb0RXSckBSdQL_mF_wHaF8&pid=Api&P=0',
 },
 {
@@ -67,6 +94,9 @@ const doctors = [
   name: 'Chloe',
   description: ' Psychiatrist',
   degree: 'MBBS',
+  contact : 9482857897,
+  address: '21 Opp Subway, 3 Sv Road, Near Timber Mark, Andheri (west))',
+  available : 'Tuesday Thursday Saturday',
   doctorImageUrl: 'https://tse4.mm.bing.net/th?id=OIP.lC1dO2ONXpfYnwsm21UAqwHaE8&pid=Api&P=0',
 },
 ]
